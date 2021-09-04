@@ -1,5 +1,6 @@
 # StatsScoreboard
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1834249459
 Stats Scoreboard mut brand-new version
 Now support two kinds of accuracy(per wave and per game):
 1.WaveAccuracy - headshot/(total bullets shot) shotgun bullets calculation has been fixed
